@@ -1,4 +1,4 @@
-# TIVReid2
+# TIVR2
 The second paper for Text-based Vehicle Re-identification(TIVReid) or Text-Image Vehicle Retrieval task:
 Distill the Knowledge of Multimodal Large Language Model into Text-to-Image Vehicle Re-identification.
 
